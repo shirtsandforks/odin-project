@@ -1,7 +1,16 @@
-## The Odin Project
+# The Odin Project
 
-The Odin Project is a free course/curriculum for those that want to learn web development by them self and it's great.
+I originally started this in 2021 and left unfinished because I didn't have enough time for it back then, mainly because of job that i had.
 
-I originally started this in 2021 and finished most of it. I didn't have enough time for it back then because of the job that i had. It could take few weeks to get back on the project and it was really bothering my learning. I was rushing on things because time was limited. It was mostly weekends that i had the time but i was really tired of the actual job + i wanted to give my spare time to my dogs.
+I thought i'd give it another go now that i have actually have time for it.
 
-Now that I quit my job i wanted to start over and this time make a github repo 😊. Along the way I might use frameworks like react and/or svelte on some projects also.
+_The Odin Project is a free course/curriculum for those that want to learn web development by them self and it's great._
+
+https://www.theodinproject.com/
+
+## Odin recipes
+
+The task at hand here is just the layout of the page. No styles, no scripts just the html.
+CSS ja JS part is added later.
+
+https://github.com/shirtsandforks/odin-project/tree/main/odin-recipe-html
